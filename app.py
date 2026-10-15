@@ -111,4 +111,4 @@ st.bar_chart(chart_df, y="Tổng kết", use_container_width=True)
 # 8. Thong tin nguoi tao
 # =========================
 st.divider()
-st.caption("Người tạo ứng dụng: [Lưu Đức Bảo Anh] | MSSV: [038208021620]")
+st.caption("Người tạo ứng dụng: Lưu Đức Bảo Anh | MSSV: 038208021620")
